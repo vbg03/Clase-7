@@ -17,3 +17,4 @@ for(compras in regalosDeNavidad){
 for(compras of lista){
     console.log(lista)
 }
+
