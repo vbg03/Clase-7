@@ -21,8 +21,8 @@ let moto = {
 };
 
 //arreglo o Array
-let verduras = ["platano","zapayo","tomate"];
+let verduras = ["platano", "zapayo", "tomate"];
 
-function nombreDeLaFuncion(){
-    
+function nombreDeLaFuncion() {
+
 };

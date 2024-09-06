@@ -9,4 +9,4 @@ console.log(string3.toLocaleUpperCase());
 console.log(string3.toLocaleLowerCase());
 
 let frase = "javascript es genial!";
-console.log(frase.substring(0,10));
+console.log(frase.substring(0, 10));

@@ -1,19 +1,19 @@
 let parametro = "uvas";
 
-switch(parametro){
+switch (parametro) {
     case "naranjas":
         console.log("las naranjas cuestan 20k")
-    break;
-    
+        break;
+
     case "uvas":
         console.log("las uvas cuestan 30k")
-    break;
+        break;
 
     case "mangos":
         console.log("los mangos cuestan 200k")
-    break;
+        break;
 
     default:
         console.log("no se que es eso")
-    break;
+        break;
 }
